@@ -5,7 +5,7 @@
 <hr /> 
 
 <h3>
-• 1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University Dasmarinas</a>
+• 1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</a>
   
 • You can message me at <a href="sample@gmail.com">Sample@gmail.com</a>
 </h3>
