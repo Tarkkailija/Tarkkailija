@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Tarkkailija" target="blank">
 Kean</a></h1>
 
-<h3 align="center">A Aspiring Developer From Dasmarinas &#127470;&#127475</h3>
+<h3 align="center">A Aspiring Developer From Dasmarinas</h3>
 
 <hr> 
 
 <h3>
-• 1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</a>
-  
-• You can message me at <a href="sample@gmail.com">Sample@gmail.com</a>
+  <ul>
+    <li>1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</a>
+    <li> You can message me at <a href="sample@gmail.com">Sample@gmail.com</a>
+    </ul>
 </h3>
 
 <hr> 
