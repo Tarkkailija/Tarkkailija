@@ -1,37 +1,32 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/Tarkkailija" target="blank">
-Kean</a></h1>
+Keanu</a></h1>
 
 <h3 align="center">A Aspiring Developer From Dasmarinas</h3>
+<h3 align="center">Attending in <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</h3>
 
 <hr> 
+</br>
 
+## About me👈 :
 <h3>
   <ul>
-    <li>1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</a>
-    <li> You can message me at <a href="sample@gmail.com">Sample@gmail.com</a>
+    <li> 🎓 Taking up <a href="https://www.dlsud.edu.ph/programs/cscs/bsit.htm">BS in Information Technology Major in Web Development
+    <li> 🦸 I am interested for opportunities and collaborations
+    <li> 📣 You can message me at <a href="keanuonealbembo@gmail.com">keanu.bembo@gmail.com</a> or at <a href="https://www.facebook.com/BasedGod.Exynos">Facebook</a>
     </ul>
 </h3>
 
-<hr> 
-
-<h4>
-About me👈 
-</h4>
-
-- 🎓I am currently studying as a **Freshman** at [De La Salle University Dasmarinas](https://www.dlsud.edu.ph/)
-
-
-<hr style="width:50%;text-align:left;margin-left:0">
+</br>
 
 ## Currently learning 🧑‍💻 :
+</br>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bash.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
 
 <hr>
-
-<img src="https://icons8.com/icon/WbhlkucPF3tZ/java"/>
-<img src="https://icons8.com/icon/v8RpPQUwv0N8/html-5"/>
-<img src="https://icons8.com/icon/7gdY5qNXaKC0/css3"/>
-<img src="https://icons8.com/icon/9MJf0ngDwS8z/bash"/>
-<img src="https://icons8.com/icon/HF4xGsjDERHf/linux"/>
 
 <h4>
 Github Stats
