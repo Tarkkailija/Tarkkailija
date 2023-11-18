@@ -10,14 +10,14 @@
 • You can message me at <a href="sample@gmail.com">Sample@gmail.com</a>
 </h3>
 
-<hr /> 
+<hr> 
 
 <h4>
 About me👈 
 </h4>
 test
 
-<hr /> 
+<hr> 
 
 <h4>
 Github Stats
