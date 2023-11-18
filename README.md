@@ -22,9 +22,13 @@ test
 <hr style="width:50%;text-align:left;margin-left:0">
 
 <h4>
-Github Stats
+<center>
+  Github Stat 
+</center>
 <h4>
-
+  
+</br>
+  
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Tarkkailija&theme=nord&show_icons=true&hide_border=false&count_private=true">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarkkailija&theme=nord&show_icons=true&hide_border=false&layout=compact">
