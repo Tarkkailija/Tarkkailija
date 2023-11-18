@@ -1,6 +1,7 @@
-<![test](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp)<
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Tarkkailija" target="blank">
+Kean</a></h1>
 
-<h2> Hello, I'm name </h2>
+<h3 align="center">A Aspiring Developer From Dasmarinas &#127470;&#127475</h3>
 
 <hr> 
 
