@@ -2,7 +2,7 @@
 
 <h2> Hello, I'm name </h2>
 
-<hr /> 
+<hr> 
 
 <h3>
 • 1st Year BIT student at <a href="https://www.dlsud.edu.ph/">De La Salle University – Dasmariñas</a>
