@@ -17,7 +17,7 @@ About me👈
 </h4>
 test
 
-<hr> 
+<hr style="width:50%;text-align:left;margin-left:0">
 
 <h4>
 Github Stats
