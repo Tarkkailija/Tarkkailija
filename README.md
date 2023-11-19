@@ -11,7 +11,7 @@ Keanu</a></h1>
 <h3>
   <ul>
     <li> 🎓 Taking up <a href="https://www.dlsud.edu.ph/programs/cscs/bsit.htm">BS in Information Technology Major in Web Development
-    <li> 🦸 I am interested for opportunities and collaborations
+    <li> 🙋 I am interested for opportunities and collaborations
     <li> 📣 You can message me at <a href="keanuonealbembo@gmail.com">keanu.bembo@gmail.com</a> or at <a href="https://www.facebook.com/BasedGod.Exynos">Facebook</a>
     </ul>
 </h3>
@@ -29,7 +29,7 @@ Keanu</a></h1>
 <hr>
 
 <h4>
-Github Stats
+Github Stats📊
 </h4>
 
 <p align="center">
