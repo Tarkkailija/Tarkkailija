@@ -23,15 +23,25 @@ Keanu</a></h1>
 <!--I just learned how to use PREVIEW and EDIT TAB on top left-->
 <hr>
 
-<h4>
+<h3>
 Github Stats📊
-</h4>
+</h3>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Tarkkailija&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=Tarkkailija&theme=shades-of-purple&hide_border=true">
    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarkkailija&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact">
 </p>
+
+</br>
+
+<h3>
+Connect
+</h3>
+<!---
+Linkedin, fb any socmed really
+--->
+
 
 <!---
 Tarkkailija/Tarkkailija is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
