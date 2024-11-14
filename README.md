@@ -19,7 +19,7 @@ Keanu</a></h1>
 </br>
 
 ## Currently learning 🧑‍💻 :
-</br> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"> <img src = "https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"> <img src ="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/bash.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+</br> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> <img src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000"> <img src = "https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000"> <img src ="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 <!--I just learned how to use PREVIEW and EDIT TAB on top left-->
 <hr>
 
